@@ -9,14 +9,13 @@ https://www.youtube.com/watch?v=2_NGY4RPer8&t=2083s
 
 [https://varosbr.notion.site/Mudan-a-Bandeira-Vermelha-2-Composi-o-da-Selic-Payroll-6b1d7cc7d3e34b6a9a1d6f7542939e0f?pvs=4](https://www.notion.so/Epis-dio-1-6b1d7cc7d3e34b6a9a1d6f7542939e0f?pvs=21)
 
-Llama-index Doc: [llama-index · PyPI](https://pypi.org/project/llama-index/#:~:text=LlamaIndex%20(GPT%20Index)%20is%20a%20data%20framework%20for%20your%20LLM)
-Llama-parse Doc: https://pypi.org/project/llama-parse/
-
-Llama Cloud: [LlamaCloud (llamaindex.ai)](https://cloud.llamaindex.ai/login)
+- Llama-index Doc: [llama-index · PyPI](https://pypi.org/project/llama-index/#:~:text=LlamaIndex%20(GPT%20Index)%20is%20a%20data%20framework%20for%20your%20LLM)
+- Llama-parse Doc: https://pypi.org/project/llama-parse/
+- Llama Cloud: [LlamaCloud (llamaindex.ai)](https://cloud.llamaindex.ai/login)
 
 # Resumo feito com IA - (pode conter erros)
 
-### Link Github:
+### Link Github: https://github.com/dioniramos/video_trascription-summary
 
 # Resumo do Episódio
 
